@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">For security reasons, I'll be sticking with my first name</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
