@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Emmanuel</h1>
 <p>For security reasons, I'll be sticking with my first name</p>
-
-<br>
 <p align="left"> 
 
 <!--
