@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Emmanuel</h1>
 <p>For security reasons, I'll be sticking with my first name</p>
+<p>Currently busy with being an Executive Secretary and an Intern juggling academics as well ;-;</p>
 <p align="left"> 
 
 <!--
