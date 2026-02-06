@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Emmanuel</h1>
-<p>For security reasons, I'll be sticking with my first name</p>
-<p>Currently busy with being an Executive Secretary and being a Junior Full-Stack Developer juggling academics as well ;-;</p>
+<p>For security reasons, 
+I'll be sticking with my first name</p>
+<p>Currently busy with being an Executive Secretary (AWS Cloud Clubs), **Junior Full-Stack Developer**, and juggling academics as well ;-;</p>
 <p align="left"> 
 
 <!--
