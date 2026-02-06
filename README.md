@@ -3,7 +3,7 @@
 I'll be sticking with my first name</p>
 <p>Currently busy with being a:<br/>
   - Executive Secretary (AWS Cloud Clubs)<br/>
-  - <b>Junior Full-Stack Developer</b>
+  - <b>Junior Full-Stack Developer</b><br/>
   - Being an undergrad student ;-;</p>
 <p align="left"> 
 
