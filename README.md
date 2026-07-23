@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Emmanuel;Full-Stack+Developer;AWS+Student+Builder+Group+Exec+Secretary" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <!-- CHANGE "yourusername" IN THE TWO LINKS BELOW -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyaee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaee&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-
 <!-- Side-by-Side Layout to eliminate vertical scrolling -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
