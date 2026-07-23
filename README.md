@@ -7,7 +7,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3>👨‍💻 Quick Bio</h3>
+      <h3>👨‍💻 Bio</h3>
       I'm an IT undergraduate balancing academics with my role as a former <b>Junior Full-Stack Developer</b> and AWS. 
       <br/>I specialize in building robust web applications, orchestrating cloud infrastructure, and experimenting with AI-assisted development tools like Cursor and OpenClaw.
       <br /><br />
@@ -38,7 +38,7 @@
 
 <br />
 <!-- BOTTOM SECTION: Expandable Info Side-by-Side -->
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<!-- <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
       <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="400" height="1" alt="" />
@@ -63,4 +63,4 @@
       </details>
     </td>
   </tr>
-</table>
+</table> -->
