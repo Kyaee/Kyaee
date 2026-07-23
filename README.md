@@ -1,9 +1,14 @@
 <div align="center">
   <!-- Dynamic Compact Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Emmanuel;Full-Stack+Developer;TechOps+Engineer;AWS+Student+Builder+Group+Exec+Secretary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Emmanuel;Full-Stack+Developer;AWS+Student+Builder+Group+Exec+Secretary" alt="Typing SVG" />
 </div>
 
-<br />
+<p align="center">
+  <!-- CHANGE "yourusername" IN THE TWO LINKS BELOW -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyaee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaee&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
 
 <!-- Side-by-Side Layout to eliminate vertical scrolling -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
@@ -18,11 +23,22 @@
       <br /><br />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🛠️ Core Stack</h3>
-      <!-- Compact icon blocks expanded to 6 per line -->
-      <img src="https://skillicons.dev/icons?i=react,ts,php,laravel,nestjs,py&perline=6" alt="Languages & Frameworks" /><br /><br />
-      <img src="https://skillicons.dev/icons?i=aws,linux,kubernetes,docker,supabase,git&perline=6" alt="Infra, DB & Tools" />
-    </td>
+<p align="center">
+  <b>Front-End</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,scss&perline=10" alt="Frontend" />
+</p>
+<p align="center">
+  <b>Back-End</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,express,php,laravel,py,django,bash&perline=10" alt="Backend" />
+</p>
+<p align="center">
+  <b>Databases, ORMs & BaaS</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma,elasticsearch&perline=10" alt="Databases" />
+</p>
+<p align="center">
+  <b>DevOps, Cloud & Infrastructure</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,linux,kubernetes,docker,git&perline=10" alt="DevOps" />
+</p>
   </tr>
 </table>
 
@@ -46,11 +62,3 @@
     <li>🏋️ When offline, I'm usually lifting weights, jogging, drawing, or playing music.</li>
   </ul>
 </details>
-
-<br />
-
-<!-- Compact GitHub Stats aligned side-by-side -->
-<p align="center">
-  <!-- Replace 'yourusername' in the links below -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
-</p>
