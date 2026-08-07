@@ -31,7 +31,7 @@
 </p>
 <p align="right">
   <b>DevOps, Cloud & Infrastructure</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,linux,kubernetes,docker,git&perline=10" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,jenkins,docker,git&perline=10" alt="DevOps" />
 </p>
   </tr>
 </table>
