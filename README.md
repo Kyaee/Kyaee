@@ -12,8 +12,8 @@
       <br/>I specialize in building robust web applications, orchestrating cloud infrastructure, and experimenting with AI-assisted development tools like Cursor and OpenClaw.
       <br /><br />
       <b>📫 Connect with me:</b><br />
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-      <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="mailto:emmanuelfabella606@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="https://linkedin.com/in/emmanuelfabella"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <br /><br />
     </td>
     <td width="50%" valign="top" align="center">
