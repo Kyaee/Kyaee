@@ -1,8 +1,4 @@
 <div align="center">
-  <!-- Dynamic Compact Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Emmanuel;Full-Stack+Developer;AWS+Student+Builder+Group+Exec+Secretary" alt="Typing SVG" />
-</div><br/>
-
 <!-- Side-by-Side Layout to eliminate vertical scrolling -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
