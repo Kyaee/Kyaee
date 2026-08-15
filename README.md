@@ -4,8 +4,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👨‍💻 Bio</h3>
-      I'm an IT undergraduate balancing academics with my role as a former <b>Junior Full-Stack Developer</b> and AWS. 
-      <br/>I specialize in building robust web applications, orchestrating cloud infrastructure, and experimenting with AI-assisted development tools like Codex and Hermes Agent.
+      I'm an undergraduate student balancing academics with my role as a Software Engineer and AWS. 
+      <br/>I specialize in web applications, orchestrating cloud, and experimenting with AI-assisted development tools to boost my automations. We're doing an everyday search for performance and growth.
       <br /><br />
       <b>📫 Connect with me:</b><br />
       <a href="mailto:emmanuelfabella606@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
