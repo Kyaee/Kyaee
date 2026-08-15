@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>👨‍💻 Bio</h3>
-      I'm an undergraduate balancing academics with my role as a Software Engineer and AWS. 
+      I'm an undergraduate balancing academics with my role as a Software Engineer and AWS advocate. 
       <br/>I specialize in web applications, orchestrating cloud, and experimenting with AI-assisted development tools to boost my automations. We're doing an everyday search for performance and growth.
       <br /><br />
       <b>📫 Connect with me:</b><br />
