@@ -8,6 +8,15 @@
       <b>📫 Connect with me:</b><br>
       <a href="mailto:emmanuelfabella606@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
       <a href="https://linkedin.com/in/emmanuel-fabella"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+              <br />
+              <br />
+      <details>
+        <summary style="font-size:5px"><b>when offline?</b> <i>(Click to expand)</i></summary>
+        <ul>
+          <li>I focus on health thru lifting, jogging, drawing, or doing music.</li>
+          <li>i daily drive <b>Fedora</b> and love automating my workflows in my Neovim-centric terminal.</li>
+        </ul>
+      </details>
     </td>
     <td width="50%" valign="top" align="center">
       <p align="right">
@@ -31,31 +40,5 @@
 </table>
 
 <br />
-
-<!-- Full-width Expandable Info -->
-<div align="left" style="width: 100%;">
-  
-  <details>
-    <summary><b>💼 Experience & Leadership</b> <i>(Click to expand)</i></summary>
-    <br />
-    <ul>
-      <li><b>Software Engineer</b> (Contract) & <b>OJT Intern</b> at Quanby Solutions, Inc.</li>
-      <li><b>Executive Secretary & Co-founder</b> @  of AWS Student Builder Group - Alpha.</li>
-      <li><b>Previously:</b> Product Engineer Intern at KadaKareer | ASEAN STIC Scholar.</li>
-    </ul>
-  </details>
-  
-  <hr style="border: none; height: 1px; background-color: #e1e4e8; margin: 10px 0;" />
-
-  <details>
-    <summary><b>⚡ Beyond the Screen</b> <i>(Click to expand)</i></summary>
-    <br />
-    <ul>
-      <li>🐧 I daily-drive <b>Fedora Linux</b> and love automating my workflows in my Neovim-centric terminal.</li>
-      <li>🏋️ When offline, I'm usually lifting weights, jogging, drawing, or playing music.</li>
-    </ul>
-  </details>
-
-</div>
 
 </div>
