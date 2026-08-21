@@ -1,7 +1,4 @@
 <div align="center">
-
-# Hi there, I'm Emmanuel! 👋
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top" align="left">
