@@ -3,8 +3,8 @@
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>👨‍💻 About Me</h3>
-      I'm a 4th-year IT undergrad balancing academics with my roles as a <b>Software Engineer</b> and <b>AWS Advocate</b>.<br><br>
-      I specialize in full-stack web applications, cloud orchestration, and experimenting with AI-assisted development tools to turbocharge my automations. Every day is a search for performance and growth.<br><br>
+      4th-year IT undergrad balancing academics with my roles as a <b>Software Engineer</b> and <b>AWS Advocate</b>.<br><br>
+      Working on full-stack web applications, cloud orchestration, and experimenting with AI-assisted development tools to turbocharge my automations. Every day is a search for performance and growth.<br><br>
       <b>📫 Connect with me:</b><br>
       <a href="mailto:emmanuelfabella606@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
       <a href="https://linkedin.com/in/emmanuel-fabella"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
